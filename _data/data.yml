@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Claudia Gabriela Elizabeth Velázquez Cruz # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
+  email: gaby_5614@hotmail.com
   phone:
   website: # No agregar http://
   linkedin: brightcoders
-  github: brightcoders
+  github: gabys14
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@PedritaCruz'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,18 +32,15 @@ sidebar:
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Creatividad e innovación
       link: # dejar en blanco
 
-    - item: Team Work
+    - item: Capacidad de colaboración y trabajo en equipo
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Adaptabilidad y flexibilidad
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
@@ -54,35 +51,11 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
-    details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
   - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
+    university: Instituto Tecnológico de Aguascalientes
+    time: 2006 - 2011
     details: |
-      Master degree in Computer Engineering
+      Degree in computer science
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
